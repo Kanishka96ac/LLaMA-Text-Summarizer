@@ -51,10 +51,10 @@ Text_Summarizer/
 Download and install Ollama:  
 [https://ollama.com/download](https://ollama.com/download)
 
-Pull the LLaMA model:
+Pull Mistral Model via Ollama:
 
 ```bash
-ollama pull llama2
+ollama pull mistral
 ```
 
 ### 2️⃣ Clone the repository
