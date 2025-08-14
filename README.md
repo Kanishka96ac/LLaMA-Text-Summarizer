@@ -60,8 +60,8 @@ ollama pull mistral
 ### 2️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/llama-text-summarizer.git
-cd llama-text-summarizer
+git clone https://github.com/Kanishka96ac/LLaMA-Text-Summarizer.git
+cd LLaMA-Text-Summarizer
 ```
 
 ### 3️⃣ Create & activate virtual environment
